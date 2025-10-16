@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bartle&family=BBH+Sans+Hegarty&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    background-color: rgb(24, 209, 141);
+    color: #161717;
+    height:auto;
+    min-height:100vh;
+}
+/* Container styling */
+.container {
+    font-family: "BBH Sans Bartle", sans-serif;    max-width: 65vw;
+    margin-left: 20px;
+    margin-right: auto;
+}
+
+.title {
+    font-family: 'Montserrat';
+    font-size: 1em;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-top: 2em;
+}
+
+
